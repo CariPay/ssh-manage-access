@@ -1,0 +1,10 @@
+{
+  "user1": {
+    "username": "user1",
+    "ssh_pubkey": "ssh-ed25519 key-string-1-here"
+  },
+  "user2": {
+    "username": "user2",
+    "ssh_pubkey": "ssh-ed25519 key-string-2-here"
+  }
+}
